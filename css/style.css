@@ -52,6 +52,7 @@ body,html{
 
 .header{
     height: 89px;
+    background: url(./images/backgroung.png);
     background-color: #1400FF;
     display: flex;
     flex-direction: column;
